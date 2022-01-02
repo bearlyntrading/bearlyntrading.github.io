@@ -16,6 +16,7 @@ date: 2021-10-18
 * Overlot: YES
 * Copy Trade: YES
 * Equity: $100
+* Monthly Target: Reset in 18 each month
 * Max Drawdown: 50%
 * Cut Loss: YES
 * Risk/Rewards Ratio: NO
