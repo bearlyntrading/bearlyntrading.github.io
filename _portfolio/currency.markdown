@@ -18,7 +18,7 @@ date: 2021-10-18
 * Equity: $100
 * Max Drawdown: 50%
 * Cut Loss: YES
-* Risk/Rewards Ration: NO
+* Risk/Rewards Ratio: NO
 * Averaging: YES
 * Martingale: Sometimes
 * Fundamental or Technical: BOTH
