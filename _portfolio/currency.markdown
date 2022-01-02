@@ -15,6 +15,7 @@ date: 2021-10-18
 * Broker: OctaFx
 * Overlot: YES
 * Copy Trade: YES
+* Copy Trade Name: Gertaone
 * Equity: $100
 * Monthly Target: Reset in 18 each month
 * Max Drawdown: 50%
