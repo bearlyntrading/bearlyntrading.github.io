@@ -17,7 +17,7 @@ date: 2021-10-18
 * Copy Trade: YES
 * Copy Trade Name: Gertaone
 * Equity: $100
-* Monthly Target: Reset in 18 each month
+* Monthly Target: Reset in 18th each month
 * Max Drawdown: 50%
 * Cut Loss: YES
 * Risk/Rewards Ratio: NO
