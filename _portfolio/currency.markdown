@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Baryon 100-All Market
-description: 
+description: ALL STRATEGY
 img: /img/futures1.png
 date: 2021-10-18
 ---
