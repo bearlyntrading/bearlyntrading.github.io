@@ -12,6 +12,7 @@ date: 2021-10-18
 <Br>
    
 * Risk Level: High Risk
+* Strategy: All Strategy of Gertaone Hedge Fund
 * Broker: OctaFx
 * Overlot: YES
 * Copy Trade: YES
