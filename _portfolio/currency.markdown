@@ -21,6 +21,9 @@ date: 2021-10-18
 * Risk/Rewards Ration: NO
 * Averaging: YES
 * Martingale: Sometimes
+* Fundamental or Technical: BOTH
+* Suppport & Resistance: YES
+* Supply & Demand Zone: YES
 * Mql5 Link:=> [HERE](https://www.mql5.com/en/signals/1287647?source=Site+Profile)
 
   
