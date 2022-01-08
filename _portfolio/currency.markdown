@@ -2,7 +2,7 @@
 layout: post
 title: Baryon 100-All Market
 description: ALL STRATEGY
-img: /img/futures1.png
+img: /img/baryon-ts.png
 date: 2021-10-18
 ---
 
@@ -19,7 +19,7 @@ date: 2021-10-18
 * Copy Trade Name: Gertaone
 * Equity: $100
 * Monthly Target: Reset in 18th each month
-* Max Drawdown: 50%
+* Max Drawdown: Margin Call 
 * Cut Loss: YES
 * Risk/Rewards Ratio: NO
 * Averaging: YES
